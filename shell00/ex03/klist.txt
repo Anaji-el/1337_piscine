@@ -1,0 +1,6 @@
+Credentials cache: API:BB6B828E-7D57-49D6-B8C0-860FD519A361
+        Principal: anaji-el@1337.MA
+
+  Issued                Expires               Principal
+Sep 23 09:54:57 2021  Sep 23 19:54:57 2021  krbtgt/1337.MA@1337.MA
+Sep 23 09:55:00 2021  Sep 23 19:54:57 2021  HTTP/iscsi.1337.ma@1337.MA
